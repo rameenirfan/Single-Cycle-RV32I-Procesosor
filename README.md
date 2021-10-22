@@ -1,1 +1,1 @@
-# Single-Cycle-RV32I-Procesosor
+# Single-Cycle-RV32I-Processor
